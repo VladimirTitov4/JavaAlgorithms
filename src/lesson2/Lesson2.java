@@ -12,7 +12,7 @@ public class Lesson2 {
         myArr.insert(7);
         myArr.insert(1);
         myArr.insert(8);
-        myArr.insert(2);
+        myArr.insert(3);
         myArr.insert(2);
 
         System.out.println("Выводим массив");
